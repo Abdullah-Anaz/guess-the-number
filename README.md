@@ -1,2 +1,2 @@
 # guess-the-number
-Guess number game app using javascript
+Guess the number game app using javascript
